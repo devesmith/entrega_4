@@ -1,2 +1,5 @@
-# entrega_4
-4ta entrega del proyecto Coder
+# proyecto_coder
+
+Proyecto coderhouse
+
+este TXT contendrá informacion sobre el trabajo final
